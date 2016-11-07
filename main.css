@@ -1,0 +1,111 @@
+
+
+body {
+	background-image: url("seamless_paper_texture.png");
+}		
+
+
+.top {
+	font-size: 20px;
+	text-align: center;
+	line-height: 8px;
+	margin-top: 30px;
+}
+
+
+.top p {
+	margin: 10px 2px;
+}
+
+
+
+			/*Creating Menu*/
+
+.Menu {
+	
+	font-weight: bold;
+	text-align: center;
+	margin-top: 40px;
+}
+
+.Menu ul {
+	
+	list-style-type: none;
+}
+
+.Menu li {
+	display: inline;
+}
+
+.Menu a{
+	color: black;
+	text-decoration: none;
+	padding: 8px 8px 8px 8px;
+}
+
+.Menu a:hover{
+	text-decoration: underline;
+}
+
+			/*Body styling*/
+
+
+body{
+	text-align: center;
+	
+
+}
+
+			/*Standard formatting for poems*/
+.poetry_content {
+	text-align: left;
+	display: inline-block;
+}
+
+
+			/*Creating footer links*/
+
+
+footer span{
+	text-align: center;
+}
+
+footer .bottomlinks{
+	display: flex;
+	line-height: 22px;
+	justify-content: center;
+	list-style-type: none;
+	position: absolute;
+	bottom: 80px;
+	right: 0;
+	left: 0;
+}
+
+
+footer div{
+	
+	padding: 0px 25px;
+}
+
+footer a{
+	color: black;
+	text-decoration: none;
+	padding: 0px 8px;
+}
+footer a:hover{
+	text-decoration: underline;
+}
+
+
+
+
+			/*trademark*/
+footer p{
+	
+	display: center;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	position: absolute;
+}
+
