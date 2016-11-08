@@ -7,6 +7,7 @@ body {
 
 .top {
 	font-size: 20px;
+	font-family: Palatino,'Palatino Linotype', serif;
 	text-align: center;
 	line-height: 8px;
 	margin-top: 30px;
@@ -23,7 +24,7 @@ body {
 
 .Menu {
 	
-	font-weight: bold;
+	font-family: Palatino, 'Palatino Linotype', serif;
 	text-align: center;
 	margin-top: 40px;
 }
@@ -31,6 +32,7 @@ body {
 .Menu ul {
 	
 	list-style-type: none;
+	font-weight: bold;
 }
 
 .Menu li {
@@ -52,6 +54,7 @@ body {
 
 body{
 	text-align: center;
+	font-family: Palatino, 'Palatino Linotype', serif;
 	
 
 }
@@ -64,6 +67,10 @@ body{
 
 
 			/*Creating footer links*/
+
+footer {
+	font-family: Palatino, 'Palatino Linotype', serif:
+}
 
 
 footer span{
